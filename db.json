@@ -2,26 +2,26 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "FranConnect Post 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "FranConnect Post 2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "FranConnect Post 3"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "FranConnect some comment",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "FranConnect some comment",
       "postId": 1
     }
   ],
