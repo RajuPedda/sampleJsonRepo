@@ -27,9 +27,8 @@
   ],
   
 
-"formData" : [
-  {
-    "key": "name",
+"formData" : {
+  "name": {
     "label": "Name",
     "value": "Juri",
     "type": "text",
@@ -37,21 +36,21 @@
       "required": true
     }
   },
-  {
-    "key": "age",
+  "age": {
+    
     "label": "Age",
     "value": 32,
     "type": "text"
   },
-  {
-    "key": "gender",
+  "gender"{
+    
     "label": "Gender",
     "value": "M",
     "type": "radio",
     "options": [{ "label": "Male", "value": "M"}, { "label": "Female", "value": "F" }]
   },
-   {
-     "key": "city",
+   "city":{
+     
     "label": "City",
     "value": "39010",
     "type": "select",
@@ -65,7 +64,7 @@
       "required": true
     }
   }
-],
+},
   
   
   "posts": [
