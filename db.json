@@ -26,8 +26,10 @@
     }
   ],
   
-  formData = {
-  name: {
+
+"formData" : [
+  {
+    key: 'name',
     label: 'Name',
     value: 'Juri',
     type: 'text',
@@ -35,43 +37,35 @@
       required: true
     }
   },
-  lastname: {
-    label: 'LastName',
-    value: 'Juri',
-    type: 'text',
-    validation: {
-      required: true
-    }
-  },
-  age: {
+  {
+    key: 'age',
     label: 'Age',
     value: 32,
     type: 'text'
   },
-  gender: {
+  {
+    key: 'gender',
     label: 'Gender',
     value: 'M',
     type: 'radio',
-    options: [
-      { label: "Male", value: 'M'},
-      { label: "Female", value: 'F'}
-    ]
-  }, 
-  city: {
+    options: [{ label: 'Male', value: 'M' }, { label: 'Female', value: 'F' }]
+  },
+   {
+     key: 'city',
     label: 'City',
     value: '39010',
     type: 'select',
     options: [
-      { label: "(choose one)", value: ''},
-      { label: "Bolzano", value: '39100'},
-      { label: "Meltina", value: '39010'},
-      { label: "Appiano", value: '39057'}
+      { label: '(choose one)', value: '' },
+      { label: 'Bolzano', value: '39100' },
+      { label: 'Meltina', value: '39010' },
+      { label: 'Appiano', value: '39057' }
     ],
     validation: {
       required: true
     }
   }
-},
+],
   
   
   "posts": [
