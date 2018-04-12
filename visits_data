@@ -1,0 +1,111 @@
+{
+    "result": {
+        "data": [{
+                "visitNumber": "VST809",
+                "scheduleDateTime": "03/28/2018",
+                "auditDateTime": "03/23/2018",
+                "originalScheduleDateTime": "03/28/2018",
+                "visitStartDateTime": "03/23/2018",
+                "visitCompletionDateTime": "",
+                "privatePresent": "",
+                "creationDate": "03/23/2018",
+                "status": 7,
+                "formVersion": 1.0,
+                "formCycle": "Not Applicable",
+                "previousStatus": 0,
+                "franchiseeName": "001-Fran-Alabama",
+                "franchiseeNo": 148567786,
+                "statusValue": "In Process",
+                "franchiseeNoUsers": 546847628,
+                "visitId": 260815517,
+                "assignToName": "Alabama Coporate",
+                "assignTo": 1550417586,
+                "createdByName": "FranConnect Administrator",
+                "createdBy": 1,
+                "visitName": "Equipment Inspection",
+                "taskCount": 2,
+                "taskCountReports": 2,
+                "taskCountNoLinks": 2,
+                "franchiseeStatus": 1,
+                "formName": "Equipment Inspection",
+                "masterVisitId": 819928520,
+                "inspectionFormId": 819928520,
+                "formType": 1,
+                "formLayout": 1,
+                "ownerResponse": true,
+                "ownerSubmitted": "D",
+                "auditorSubmitted": "D",
+                "isFranVisit": "",
+                "ownerScore": "--",
+                "ownerScoreLink": "--",
+                "ownerScoreLinkForReport": "--",
+                "ownerScoreSpan": "--",
+                "score": "25.00",
+                "actions": [{
+                        "displayName": "Resume Visit"
+                    }, {
+                        "displayName": "Visit Summary as PDF"
+                    }, {
+                        "displayName": "Modify"
+                    }, {
+                        "displayName": "View Logs"
+                    }]
+            }, {
+                "visitNumber": "VST809",
+                "scheduleDateTime": "03/28/2018",
+                "auditDateTime": "03/23/2018",
+                "originalScheduleDateTime": "03/28/2018",
+                "visitStartDateTime": "03/23/2018",
+                "visitCompletionDateTime": "",
+                "privatePresent": "",
+                "creationDate": "03/23/2018",
+                "status": 7,
+                "formVersion": 1.0,
+                "formCycle": "Not Applicable",
+                "previousStatus": 0,
+                "franchiseeName": "001-Fran-Alabama",
+                "franchiseeNo": 148567786,
+                "statusValue": "In Process",
+                "franchiseeNoUsers": 546847628,
+                "visitId": 260815517,
+                "assignToName": "Alabama Coporate",
+                "assignTo": 1550417586,
+                "createdByName": "FranConnect Administrator",
+                "createdBy": 1,
+                "visitName": "Equipment Inspection",
+                "taskCount": 2,
+                "taskCountReports": 2,
+                "taskCountNoLinks": 2,
+                "franchiseeStatus": 1,
+                "formName": "Equipment Inspection",
+                "masterVisitId": 819928520,
+                "inspectionFormId": 819928520,
+                "formType": 1,
+                "formLayout": 1,
+                "ownerResponse": true,
+                "ownerSubmitted": "D",
+                "auditorSubmitted": "D",
+                "isFranVisit": "",
+                "ownerScore": "--",
+                "ownerScoreLink": "--",
+                "ownerScoreLinkForReport": "--",
+                "ownerScoreSpan": "--",
+                "score": "25.00",
+                "actions": [{
+                        "displayName": "Resume Visit"
+                    }, {
+                        "displayName": "Visit Summary as PDF"
+                    }, {
+                        "displayName": "Modify"
+                    }, {
+                        "displayName": "View Logs"
+                    }]
+            }],
+        "page": {
+            "size": 20,
+            "totalRecords": 20234,
+            "totalPages": 1012,
+            "pageId": 10
+        }
+    }
+}
