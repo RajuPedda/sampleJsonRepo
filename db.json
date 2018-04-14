@@ -26,8 +26,7 @@
     }
   ],
   
-  "visitSummery": {
-        "data": [{
+  "visitSummery": [{
                 "visitNumber": "VST809",
                 "scheduleDateTime": "03/28/2018",
                 "auditDateTime": "03/23/2018",
@@ -40,13 +39,7 @@
                 "originalScheduleDateTime": "03/28/2018"
                
             }],
-        "page": {
-            "size": 20,
-            "totalRecords": 20234,
-            "totalPages": 1012,
-            "pageId": 10
-        }
-    },
+    
   
 
 "formData" : {
