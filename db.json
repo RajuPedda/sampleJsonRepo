@@ -28,15 +28,13 @@
   
   "visitSummery": [{
                 "visitNumber": "VST809",
-                "scheduleDateTime": "03/28/2018",
-                "auditDateTime": "03/23/2018",
-                "originalScheduleDateTime": "03/28/2018"
+                "scheduleDateTime": "03/28/2018"
+                
                 
             }, {
                 "visitNumber": "VST809",
-                "scheduleDateTime": "03/28/2018",
-                "auditDateTime": "03/23/2018",
-                "originalScheduleDateTime": "03/28/2018"
+                "scheduleDateTime": "03/28/2018"
+               
                
             }],
     
