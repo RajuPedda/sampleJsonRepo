@@ -26,7 +26,8 @@
     }
   ],
   
-  "visitSummery": [{
+  "visitSummery": {
+    {
                 "visitNumber": "VST809",
                 "scheduleDateTime": "03/28/2018"
                 
@@ -36,7 +37,8 @@
                 "scheduleDateTime": "03/28/2018"
                
                
-            }],
+            }
+},
     
   
 
